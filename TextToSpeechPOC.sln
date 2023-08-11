@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.6.33829.357
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "TextToSpeechPOC", "TextToSpeechPOC\TextToSpeechPOC.csproj", "{C47BB257-385A-453A-973B-3B32BA35FD9C}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TextToSpeechPOConsole", "TextToSpeechPOConsole\TextToSpeechPOConsole.csproj", "{93984263-19CC-4107-8B70-85D8DBA36FD7}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{C47BB257-385A-453A-973B-3B32BA35FD9C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{C47BB257-385A-453A-973B-3B32BA35FD9C}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{C47BB257-385A-453A-973B-3B32BA35FD9C}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{C47BB257-385A-453A-973B-3B32BA35FD9C}.Release|Any CPU.Build.0 = Release|Any CPU
+		{93984263-19CC-4107-8B70-85D8DBA36FD7}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{93984263-19CC-4107-8B70-85D8DBA36FD7}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{93984263-19CC-4107-8B70-85D8DBA36FD7}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{93984263-19CC-4107-8B70-85D8DBA36FD7}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {6E40587E-76B7-43B9-979D-B9F79E182DC4}
+	EndGlobalSection
+EndGlobal
